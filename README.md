@@ -1,5 +1,5 @@
 # Snake A-star
-Implementation of A-Star algorithm in Snake Game for my Artificial Intelligence class.
+Implementation of A-Star algorithm in Snake using PyGame for my Artificial Intelligence class.
 
 ## Used
 - A-star: To find the shortest path
