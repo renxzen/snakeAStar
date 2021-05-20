@@ -7,4 +7,5 @@ Implementation of A-Star algorithm in Snake Game for my Artificial Intelligence 
 
 ## Images
 - version 0.99
+
 ![game](img/001.png)
